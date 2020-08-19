@@ -16,7 +16,6 @@ View Bus Ticket![](/src/img/F2.png)
 ## Steps for Project Execution :
 
 ```
-cd MyTrip
 npm install
 ng serve
 ````
