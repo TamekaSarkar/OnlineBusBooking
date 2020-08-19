@@ -3,7 +3,7 @@ MyTrip.com is an online travel booking web application with a range of choices f
   
 ## Objective
 The goal of this project is to build an online Bus Ticket booking application with effortless seat
-selection,Search buses for different routes,Viewing list of buses available in that route, Seat selection, Passenger Information, Review bus tickets and view bus ticket page using Angular framework, Bootstrap3,HtML,CSS and Firebase.
+selection,Search buses for different routes,Viewing list of buses available in that route, Seat selection, Passenger Information, Review bus tickets and view bus ticket page using Angular framework, Bootstrap3,HtML,CSS,TypeScript,JavaScript and Firebase.
 
 
 ## Screenshots
